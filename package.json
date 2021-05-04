@@ -1,0 +1,15 @@
+{
+  "name": "robo-conversor",
+  "version": "1.0.0",
+  "description": "robo para converter valores monetario",
+  "main": "index.js",
+  "author": "Aldovani",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^9.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
